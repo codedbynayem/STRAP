@@ -5,19 +5,19 @@ The latest version of the software can be found at 'https://github.com/codedbyna
 
 If you use this code in your research, please follow the guidelines below:
 
-Citation
+Citation: 
 Please cite the following manuscript (once published):
 Haque, N., et al. Title. Journal (2025). DOI (TBD)
 
-Acknowledgment
+Acknowledgment: 
 If the pipeline is used in a supporting role (e.g., for figure generation, data processing, or presentation), please include the following in the Acknowledgments section:
 "We thank Nayem Haque & Robert Coleman for providing the single-molecule imaging analysis pipeline used in this work."
 
-Authorship
+Authorship: 
 If this pipeline plays a central role in your analysis and contributes to novel insights or figures, please contact both Nayem (nayem.haque@einsteinmed.edu) and Rob 
 (robert.coleman2@einsteinmed.edu) in the same email to discuss potential co-authorship.
 
-Modifications
+Modifications: 
 If you modify or adapt this code for your own use, please indicate this in your version and maintain credit to the original authors. Open collaboration and transparency are encouraged.
 
 GNU GENERAL PUBLIC LICENSE
