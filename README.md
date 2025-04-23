@@ -11,7 +11,7 @@ Haque, N., et al. Title. Journal (2025). DOI (TBD)
 
 Acknowledgment
 If the pipeline is used in a supporting role (e.g., for figure generation, data processing, or presentation), please include the following in the Acknowledgments section:
-"We thank Nayem Haque & the Coleman lab for providing the single-molecule imaging analysis pipeline used in this work."
+"We thank Nayem Haque & Robert Coleman for providing the single-molecule imaging analysis pipeline used in this work."
 
 Authorship
 If this pipeline plays a central role in your analysis and contributes to novel insights or figures, please contact both Nayem (nayem.haque@einsteinmed.edu) and Rob 
@@ -23,7 +23,7 @@ If you modify or adapt this code for your own use, please indicate this in your 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-Copyright (C) 2025 Nayem Haque
+Copyright (C) 2025 Nayem Haque and Robert Coleman
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
