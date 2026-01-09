@@ -2,6 +2,7 @@
 Single-molecule TRacking And Processing pipeline.
 This pipeline was developed to streamline single-molecule imaging analysis using Fiji, Python, and MATLAB. It integrates legacy code and newly written modules, and was designed to automate large portions of the processing and analysis workflow.
 The latest version of the software can be found at 'https://github.com/codedbynayem/STRAP'.
+Please refer to the "STRAP_Documentation.docx" file for detailed instructions on how to use the STRAP pipeline. All software dependencies and opertating systems are listed there.
 
 If you use this code in your research, please follow the guidelines below:
 
